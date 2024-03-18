@@ -1,11 +1,11 @@
 ```
- oooooooooooo  oooooooooooo  oooooooooooo
-d'""""""d888' d'""""""d888' d'""""""d888'             
-      .888P         .888P         .888P    oooooooo    oooooooo          /|
-     d888'         d888'         d888'    d'""7d8P    d'""7d8P         (’､ ,¯/  (
-   .888P         .888P        .888P        .d8P'       .d8P'            | ⸲  \   )
-  d888'    .P   d888'    |\      ⸲⸲,-----..⸲   '   .P  .d8P'  .P .o. .o. ノノ、  \ノ
-.8888888888P  .88 ZZZzz /, ‛、-’       、  .՝·..-.   d8888888P  Y8P Y8P Y8P しし’
-                       |,4- ) ) -、_.  ,\  ,՝·...’
-                      ∠ --’( /‛--’  ՝·-‛ \ )
+ zzzzzzzzzzzz  zzzzzzzzzzzz                         zzzzzzzzzzzz  zzzzzzzzzzzz
+zᶻᶻᶻᶻᶻᶻᶻ7ZZZ' zᶻᶻᶻᶻᶻᶻᶻ7ZZZ'                        zᶻᶻᶻᶻᶻᶻᶻ7ZZZ' zᶻᶻᶻᶻᶻᶻᶻ7ZZZ'
+      .ZZZ7         .ZZZ7    zzzzzzzz    zzzzzzzz        .Z7 /|        .ZZZ7
+     zZZZ'         zZZZ'    zᶻᶻᶻ7ZZᶻ    zᶻᶻᶻ7ZZᶻ        zZ (’ ,¯/  (  zZZZ'
+   .ZZZ7         .ZZZ7        .zZ7'       .zZ7'       .ZZZ7 | ⸲  \   ) ᶻZ7
+  zZZZ'    |\   zᶻ ⸲⸲,-----..⸲ ᶻZ7'   .7  .zZ7'  .7    zZZZ' ノノ、  \ノ Z'    .7
+.ZZZZZZzᶻ /, ‛、-’       、  .՝·..-. 7  zZZZZZZZ7   .ZZZZZZZZZZ しし’ ZZZZZZZ7
+         |,4- ) ) -、_.  ,\  ,՝·...’
+        ∠ --’( /‛--’  ՝·-‛ \ )
 ```
